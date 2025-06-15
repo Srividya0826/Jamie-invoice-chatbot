@@ -4,3 +4,4 @@ __pycache__/
 .env
 invoice_status.xlsx
 .streamlit/secrets.toml
+.streamlit/secrets.toml
