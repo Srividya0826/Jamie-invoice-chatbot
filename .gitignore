@@ -3,3 +3,4 @@ __pycache__/
 *.DS_Store
 .env
 invoice_status.xlsx
+.streamlit/secrets.toml
